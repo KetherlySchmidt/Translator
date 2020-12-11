@@ -1,0 +1,8 @@
+Texto: hi
+Idioma do texto: EnUs
+Idioma da Tradução: PtBr
+Tradução: oi
+Texto: como voce esta
+Idioma do texto: PtBr
+Idioma da Tradução: EnUs
+Tradução: how are you?

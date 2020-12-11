@@ -1,0 +1,4 @@
+Texto: como
+Idioma do texto: PtBr
+Idioma da Tradução: EnUs
+Tradução: as

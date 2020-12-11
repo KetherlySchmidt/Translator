@@ -1,0 +1,4 @@
+Idioma do texto: EnUs
+Texto: hi
+Idioma da Tradução: PtBr
+Tradução: oi
